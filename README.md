@@ -23,20 +23,25 @@
 
 ## 🤹🏻‍♂️ Hobby
 
-<a href="https://play.picoctf.org/users/cepopf" target="_blank" rel="noreferrer">
-  <img
-    src="https://play.picoctf.org/api/media/picoCTF_p_logo_4c_3_NoYG1qU_3zBp50s.png"
-    alt="picoCTF"
-    height="30"
-  />
-</a>
-<a href="https://leetcode.com/u/pXCL08GY1W/" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo.png"
-    alt="LeetCode"
-    height="30"
-  />
-</a>
+<div style="display:flex; gap:2px; align-items:center;">
+  <a href="https://play.picoctf.org/users/cepopf" target="_blank">
+    <img
+      src="https://play.picoctf.org/api/media/picoCTF_p_logo_4c_3_NoYG1qU_3zBp50s.png"
+      height="30"
+      alt="picoCTF"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/pXCL08GY1W/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      height="30"
+      alt="LeetCode"
+    />
+  </a>
+</div>
+
+
 
 
 
