@@ -23,7 +23,6 @@
 
 ## 🤹🏻‍♂️ Hobby
 
-<div style="display:flex; gap:2px; align-items:center;">
   <a href="https://play.picoctf.org/users/cepopf" target="_blank">
     <img
       src="https://play.picoctf.org/api/media/picoCTF_p_logo_4c_3_NoYG1qU_3zBp50s.png"
@@ -39,7 +38,6 @@
       alt="LeetCode"
     />
   </a>
-</div>
 
 
 
