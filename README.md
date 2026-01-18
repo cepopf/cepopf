@@ -21,6 +21,28 @@
 </picture>
 </a> &nbsp;
 
+## 🤹🏻‍♂️ Hobby
+
+<a href="https://play.picoctf.org/users/cepopf" target="_blank" rel="noreferrer">
+  <img
+    src="https://play.picoctf.org/api/media/picoCTF_p_logo_4c_3_NoYG1qU_3zBp50s.png"
+    alt="picoCTF"
+    height="30"
+    style="vertical-align: middle;"
+  />
+  picoCTF
+</a>
+<a href="https://leetcode.com/u/pXCL08GY1W/" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+    alt="LeetCode"
+    height="30"
+    style="vertical-align: middle;"
+  />
+  LeetCode
+</a>
+
+
 
 
 
