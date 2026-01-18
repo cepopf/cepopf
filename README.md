@@ -3,7 +3,7 @@
 🌍 **Location:** Thailand   
 📄 **Resume:** [View Resume](#)
 
-### Social
+### 📱 Social
 
 <a href="https://www.github.com/cepopf" target="_blank" rel="noreferrer">
 <picture>
